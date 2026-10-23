@@ -2,7 +2,7 @@ package ua.opnu;
 
 import javax.swing.*;
 
-public class Main {
+public class Main3 {
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> new MainFrame("RoShamBo"));
     }

@@ -4,7 +4,7 @@ import ua.opnu.view.DrawFrame;
 
 import javax.swing.*;
 
-public class Main {
+public class Main4 {
 
     public static void main(String[] args) {
 
